@@ -74,7 +74,7 @@ pyenv install 3.12.6
 pyenv virtualenv 3.12.6 learning
 
 # Navigate to your project directory
-cd /Users/jeffbarnette/Projects/Code/Deep_Research
+cd /Projects/Code/Deep_Research
 
 # Set the local Python version to use the 'learning' virtual environment
 pyenv local learning
